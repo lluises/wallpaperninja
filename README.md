@@ -2,9 +2,23 @@
 
 Ubuntu-Touch app to manage wallpapers with options like random wallpapers, automatic day/night images, etc.
 
-App for Ubuntu-Touch
+Website: [kitsune.cat](https://kitsune.cat)
 
-Website: [https://kitsune.cat](kitsune.cat)
+
+## How to build
+
+Use the [clickable](https://clickable-ut.dev) tool.
+
+```bash
+clickable build
+```
+
+then you can do:
+
+```bash
+clickable install
+```
+
 
 ## License
 
