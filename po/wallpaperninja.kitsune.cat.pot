@@ -1,0 +1,354 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the wallpaperninja.kitsune.cat package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: wallpaperninja.kitsune.cat\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-18 15:10+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../qml/FolderPicker.qml:10
+msgid "Select folder"
+msgstr ""
+
+#: ../qml/FolderPicker.qml:33
+msgid "Cancel"
+msgstr ""
+
+#: ../qml/FolderPicker.qml:122
+msgid "No subfolders"
+msgstr ""
+
+#: ../qml/FolderPicker.qml:134
+msgid "Select this folder"
+msgstr ""
+
+#: ../qml/Logs.qml:13
+msgid "Logs"
+msgstr ""
+
+#: ../qml/Logs.qml:18
+msgid "Refresh"
+msgstr ""
+
+#: ../qml/Logs.qml:39
+msgid "Could not read logs."
+msgstr ""
+
+#: ../qml/Logs.qml:78
+msgid "No logs."
+msgstr ""
+
+#: ../qml/Main.qml:110 wallpaperninja.desktop.in.h:1
+msgid "Wallpaper Ninja"
+msgstr ""
+
+#: ../qml/Main.qml:160
+msgid "The ninja will take care of your Ubuntu Touch wallpaper"
+msgstr ""
+
+#: ../qml/Main.qml:186
+msgid "Wallpaper Ninja is operational"
+msgstr ""
+
+#: ../qml/Main.qml:207
+msgid "Wallpaper Ninja is disabled"
+msgstr ""
+
+#: ../qml/Main.qml:225 ../qml/Main.qml:236
+msgid "Next wallpaper"
+msgstr ""
+
+#: ../qml/Main.qml:237
+msgid ""
+"Failed to change the wallpaper. Make sure to configure and click apply "
+"before triggering the wallpaper change"
+msgstr ""
+
+#: ../qml/Main.qml:265
+msgid "Main wallpapers folder "
+msgstr ""
+
+#: ../qml/Main.qml:284 ../qml/Main.qml:411
+msgid "Choose folder"
+msgstr ""
+
+#: ../qml/Main.qml:291
+msgid "/path/to/folder"
+msgstr ""
+
+#: ../qml/Main.qml:314 ../qml/Main.qml:440
+msgid "Recursive"
+msgstr ""
+
+#: ../qml/Main.qml:327 ../qml/Main.qml:453
+msgid "Detected images:"
+msgstr ""
+
+#: ../qml/Main.qml:387
+msgid "Alternative wallpapers folder "
+msgstr ""
+
+#: ../qml/Main.qml:400
+msgid "Optional. Used for the day/night switch"
+msgstr ""
+
+#: ../qml/Main.qml:418
+msgid "Unselected"
+msgstr ""
+
+#: ../qml/Main.qml:513
+msgid "Order"
+msgstr ""
+
+#: ../qml/Main.qml:525
+msgid "Alphabetical"
+msgstr ""
+
+#: ../qml/Main.qml:526
+msgid "Reverse alphabetical"
+msgstr ""
+
+#: ../qml/Main.qml:527
+msgid "Random"
+msgstr ""
+
+#: ../qml/Main.qml:528
+msgid "Random without repeating"
+msgstr ""
+
+#: ../qml/Main.qml:553
+msgid "Change at an interval"
+msgstr ""
+
+#: ../qml/Main.qml:569
+msgid "Enable wallpaper change at an interval"
+msgstr ""
+
+#: ../qml/Main.qml:585
+msgid "On boot"
+msgstr ""
+
+#: ../qml/Main.qml:586
+msgid "Seconds"
+msgstr ""
+
+#: ../qml/Main.qml:587
+msgid "Minutes"
+msgstr ""
+
+#: ../qml/Main.qml:588
+msgid "Hours"
+msgstr ""
+
+#: ../qml/Main.qml:589
+msgid "Days"
+msgstr ""
+
+#: ../qml/Main.qml:590
+msgid "Weeks"
+msgstr ""
+
+#: ../qml/Main.qml:591
+msgid "Months"
+msgstr ""
+
+#: ../qml/Main.qml:600
+msgid "Repeat every"
+msgstr ""
+
+#: ../qml/Main.qml:609
+msgid "Time value"
+msgstr ""
+
+#: ../qml/Main.qml:639
+msgid "Day/night wallpaper folder switching"
+msgstr ""
+
+#: ../qml/Main.qml:655
+msgid "Enable the day/night switch"
+msgstr ""
+
+#: ../qml/Main.qml:670
+msgid "Main folder"
+msgstr ""
+
+#: ../qml/Main.qml:689 ../qml/Main.qml:738
+msgid ":"
+msgstr ""
+
+#: ../qml/Main.qml:719
+msgid "Alternative folder"
+msgstr ""
+
+#: ../qml/Main.qml:782
+msgid "Miscellaneous"
+msgstr ""
+
+#: ../qml/Main.qml:803
+msgid "Do not keep wallpapers in the settings list"
+msgstr ""
+
+#: ../qml/Main.qml:814
+msgid ""
+"Every wallpaper must be added to the Ubuntu Touch settings wallpaper list. "
+"This app can delete its own previous wallpapers to keep the list clean"
+msgstr ""
+
+#: ../qml/Main.qml:820
+msgid "Reset all settings (without appliying)"
+msgstr ""
+
+#: ../qml/Main.qml:827
+msgid "View background module logs"
+msgstr ""
+
+#: ../qml/Main.qml:853 ../qml/Main.qml:862
+msgid "Disable"
+msgstr ""
+
+#: ../qml/Main.qml:878
+msgid "Disable background module"
+msgstr ""
+
+#: ../qml/Main.qml:880
+msgid "The module has been disabled"
+msgstr ""
+
+#: ../qml/Main.qml:881
+msgid "Failed to deactivate"
+msgstr ""
+
+#: ../qml/Main.qml:890
+msgid ""
+"This button removes the background module that manages the wallpaper timer. "
+"Click it before uninstalling this app"
+msgstr ""
+
+#: ../qml/Main.qml:914
+msgid "Notes and limitations"
+msgstr ""
+
+#: ../qml/Main.qml:928
+msgid "Only JPG and PNG images are supported"
+msgstr ""
+
+#: ../qml/Main.qml:929
+msgid "Invalid images might fallback to the default Ubuntu wallpaper"
+msgstr ""
+
+#: ../qml/Main.qml:930
+msgid "When enabled, the interval timer always changes the wallpaper on boot"
+msgstr ""
+
+#: ../qml/Main.qml:931
+msgid ""
+"The interval timer and daynight times are not exact and they may vary up to "
+"1 minute to improve battery life."
+msgstr ""
+
+#: ../qml/Main.qml:932
+msgid ""
+"When using both, the time interval and the day/night switch, the day/night "
+"switch will reset the time interval counter when switching folders. If you "
+"set an interval once a day it will never fire because the day/night will "
+"always be faster."
+msgstr ""
+
+#: ../qml/Main.qml:962
+msgid "Made with love by LluísE - "
+msgstr ""
+
+#: ../qml/Main.qml:993
+msgid "Apply"
+msgstr ""
+
+#: ../qml/Main.qml:1009 ../qml/Main.qml:1027 ../qml/Main.qml:1036
+#: ../qml/Main.qml:1045 ../qml/Main.qml:1055 ../qml/Main.qml:1066
+#: ../qml/Main.qml:1078 ../qml/Main.qml:1086 ../qml/Main.qml:1180
+msgid "Invalid configuration"
+msgstr ""
+
+#: ../qml/Main.qml:1010
+msgid "Please select a valid folder"
+msgstr ""
+
+#: ../qml/Main.qml:1028
+msgid "Please select an order"
+msgstr ""
+
+#: ../qml/Main.qml:1037
+msgid "Please select an interval"
+msgstr ""
+
+#: ../qml/Main.qml:1046
+msgid "Please input a valid time number"
+msgstr ""
+
+#: ../qml/Main.qml:1056
+msgid "Please input valid hours and minutes for the day/night main folder"
+msgstr ""
+
+#: ../qml/Main.qml:1067
+msgid ""
+"Please input valid hours and minutes for the day/night alternative folder"
+msgstr ""
+
+#: ../qml/Main.qml:1079
+msgid "Enable at least one: Interval timer or Day/night switch"
+msgstr ""
+
+#: ../qml/Main.qml:1087
+msgid ""
+"In order to use the day/night switch you must select an alternative folder"
+msgstr ""
+
+#: ../qml/Main.qml:1121
+msgid "Configuration applied"
+msgstr ""
+
+#: ../qml/Main.qml:1122
+msgid "Everything okey"
+msgstr ""
+
+#: ../qml/Main.qml:1127 ../qml/Main.qml:1137
+msgid "Error"
+msgstr ""
+
+#: ../qml/Main.qml:1128
+msgid "Failed to set up the background service"
+msgstr ""
+
+#: ../qml/Main.qml:1138
+msgid "Failed to save the configuration"
+msgstr ""
+
+#: ../qml/Main.qml:1149
+msgid "Select a folder"
+msgstr ""
+
+#: ../qml/Main.qml:1181
+msgid "Please make sure to input a valid configuration"
+msgstr ""
+
+#: ../qml/Main.qml:1184
+msgid "OK"
+msgstr ""
+
+#: ../qml/Main.qml:1195
+msgid "Working"
+msgstr ""
+
+#: ../qml/Main.qml:1196
+msgid "Please wait"
+msgstr ""
