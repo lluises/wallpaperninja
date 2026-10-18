@@ -42,10 +42,6 @@ MainView {
     pageStack.push(folderPicker)
   }
 
-  function open_logs_page() {
-    pageStack.push(logsComponent)
-  }
-
   function folderFromUrl(url) {
     var path = url.toString().replace(/^file:\/\//, "")
     return path.substring(0, path.lastIndexOf("/"))
@@ -822,13 +818,6 @@ MainView {
                     pull_settings_from_cfg({});
                   }
                 }
-
-                Button {
-                  text: i18n.tr("View background module logs")
-                  onClicked: {
-                    open_logs_page();
-                  }
-                }
               }
             }
 
@@ -1165,11 +1154,6 @@ MainView {
         pageStack.pop()
       }
     }
-  }
-
-  Component {
-    id: logsComponent
-    Logs {}
   }
  
   Component {

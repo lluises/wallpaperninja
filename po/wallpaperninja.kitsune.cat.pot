@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wallpaperninja.kitsune.cat\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-18 15:10+0000\n"
+"POT-Creation-Date: 2026-10-18 16:49+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -33,231 +33,211 @@ msgstr ""
 msgid "Select this folder"
 msgstr ""
 
-#: ../qml/Logs.qml:13
-msgid "Logs"
-msgstr ""
-
-#: ../qml/Logs.qml:18
-msgid "Refresh"
-msgstr ""
-
-#: ../qml/Logs.qml:39
-msgid "Could not read logs."
-msgstr ""
-
-#: ../qml/Logs.qml:78
-msgid "No logs."
-msgstr ""
-
-#: ../qml/Main.qml:110 wallpaperninja.desktop.in.h:1
+#: ../qml/Main.qml:106 wallpaperninja.desktop.in.h:1
 msgid "Wallpaper Ninja"
 msgstr ""
 
-#: ../qml/Main.qml:160
+#: ../qml/Main.qml:156
 msgid "The ninja will take care of your Ubuntu Touch wallpaper"
 msgstr ""
 
-#: ../qml/Main.qml:186
+#: ../qml/Main.qml:182
 msgid "Wallpaper Ninja is operational"
 msgstr ""
 
-#: ../qml/Main.qml:207
+#: ../qml/Main.qml:203
 msgid "Wallpaper Ninja is disabled"
 msgstr ""
 
-#: ../qml/Main.qml:225 ../qml/Main.qml:236
+#: ../qml/Main.qml:221 ../qml/Main.qml:232
 msgid "Next wallpaper"
 msgstr ""
 
-#: ../qml/Main.qml:237
+#: ../qml/Main.qml:233
 msgid ""
 "Failed to change the wallpaper. Make sure to configure and click apply "
 "before triggering the wallpaper change"
 msgstr ""
 
-#: ../qml/Main.qml:265
+#: ../qml/Main.qml:261
 msgid "Main wallpapers folder "
 msgstr ""
 
-#: ../qml/Main.qml:284 ../qml/Main.qml:411
+#: ../qml/Main.qml:280 ../qml/Main.qml:407
 msgid "Choose folder"
 msgstr ""
 
-#: ../qml/Main.qml:291
+#: ../qml/Main.qml:287
 msgid "/path/to/folder"
 msgstr ""
 
-#: ../qml/Main.qml:314 ../qml/Main.qml:440
+#: ../qml/Main.qml:310 ../qml/Main.qml:436
 msgid "Recursive"
 msgstr ""
 
-#: ../qml/Main.qml:327 ../qml/Main.qml:453
+#: ../qml/Main.qml:323 ../qml/Main.qml:449
 msgid "Detected images:"
 msgstr ""
 
-#: ../qml/Main.qml:387
+#: ../qml/Main.qml:383
 msgid "Alternative wallpapers folder "
 msgstr ""
 
-#: ../qml/Main.qml:400
+#: ../qml/Main.qml:396
 msgid "Optional. Used for the day/night switch"
 msgstr ""
 
-#: ../qml/Main.qml:418
+#: ../qml/Main.qml:414
 msgid "Unselected"
 msgstr ""
 
-#: ../qml/Main.qml:513
+#: ../qml/Main.qml:509
 msgid "Order"
 msgstr ""
 
-#: ../qml/Main.qml:525
+#: ../qml/Main.qml:521
 msgid "Alphabetical"
 msgstr ""
 
-#: ../qml/Main.qml:526
+#: ../qml/Main.qml:522
 msgid "Reverse alphabetical"
 msgstr ""
 
-#: ../qml/Main.qml:527
+#: ../qml/Main.qml:523
 msgid "Random"
 msgstr ""
 
-#: ../qml/Main.qml:528
+#: ../qml/Main.qml:524
 msgid "Random without repeating"
 msgstr ""
 
-#: ../qml/Main.qml:553
+#: ../qml/Main.qml:549
 msgid "Change at an interval"
 msgstr ""
 
-#: ../qml/Main.qml:569
+#: ../qml/Main.qml:565
 msgid "Enable wallpaper change at an interval"
 msgstr ""
 
-#: ../qml/Main.qml:585
+#: ../qml/Main.qml:581
 msgid "On boot"
 msgstr ""
 
-#: ../qml/Main.qml:586
+#: ../qml/Main.qml:582
 msgid "Seconds"
 msgstr ""
 
-#: ../qml/Main.qml:587
+#: ../qml/Main.qml:583
 msgid "Minutes"
 msgstr ""
 
-#: ../qml/Main.qml:588
+#: ../qml/Main.qml:584
 msgid "Hours"
 msgstr ""
 
-#: ../qml/Main.qml:589
+#: ../qml/Main.qml:585
 msgid "Days"
 msgstr ""
 
-#: ../qml/Main.qml:590
+#: ../qml/Main.qml:586
 msgid "Weeks"
 msgstr ""
 
-#: ../qml/Main.qml:591
+#: ../qml/Main.qml:587
 msgid "Months"
 msgstr ""
 
-#: ../qml/Main.qml:600
+#: ../qml/Main.qml:596
 msgid "Repeat every"
 msgstr ""
 
-#: ../qml/Main.qml:609
+#: ../qml/Main.qml:605
 msgid "Time value"
 msgstr ""
 
-#: ../qml/Main.qml:639
+#: ../qml/Main.qml:635
 msgid "Day/night wallpaper folder switching"
 msgstr ""
 
-#: ../qml/Main.qml:655
+#: ../qml/Main.qml:651
 msgid "Enable the day/night switch"
 msgstr ""
 
-#: ../qml/Main.qml:670
+#: ../qml/Main.qml:666
 msgid "Main folder"
 msgstr ""
 
-#: ../qml/Main.qml:689 ../qml/Main.qml:738
+#: ../qml/Main.qml:685 ../qml/Main.qml:734
 msgid ":"
 msgstr ""
 
-#: ../qml/Main.qml:719
+#: ../qml/Main.qml:715
 msgid "Alternative folder"
 msgstr ""
 
-#: ../qml/Main.qml:782
+#: ../qml/Main.qml:778
 msgid "Miscellaneous"
 msgstr ""
 
-#: ../qml/Main.qml:803
+#: ../qml/Main.qml:799
 msgid "Do not keep wallpapers in the settings list"
 msgstr ""
 
-#: ../qml/Main.qml:814
+#: ../qml/Main.qml:810
 msgid ""
 "Every wallpaper must be added to the Ubuntu Touch settings wallpaper list. "
 "This app can delete its own previous wallpapers to keep the list clean"
 msgstr ""
 
-#: ../qml/Main.qml:820
+#: ../qml/Main.qml:816
 msgid "Reset all settings (without appliying)"
 msgstr ""
 
-#: ../qml/Main.qml:827
-msgid "View background module logs"
-msgstr ""
-
-#: ../qml/Main.qml:853 ../qml/Main.qml:862
+#: ../qml/Main.qml:842 ../qml/Main.qml:851
 msgid "Disable"
 msgstr ""
 
-#: ../qml/Main.qml:878
+#: ../qml/Main.qml:867
 msgid "Disable background module"
 msgstr ""
 
-#: ../qml/Main.qml:880
+#: ../qml/Main.qml:869
 msgid "The module has been disabled"
 msgstr ""
 
-#: ../qml/Main.qml:881
+#: ../qml/Main.qml:870
 msgid "Failed to deactivate"
 msgstr ""
 
-#: ../qml/Main.qml:890
+#: ../qml/Main.qml:879
 msgid ""
 "This button removes the background module that manages the wallpaper timer. "
 "Click it before uninstalling this app"
 msgstr ""
 
-#: ../qml/Main.qml:914
+#: ../qml/Main.qml:903
 msgid "Notes and limitations"
 msgstr ""
 
-#: ../qml/Main.qml:928
+#: ../qml/Main.qml:917
 msgid "Only JPG and PNG images are supported"
 msgstr ""
 
-#: ../qml/Main.qml:929
+#: ../qml/Main.qml:918
 msgid "Invalid images might fallback to the default Ubuntu wallpaper"
 msgstr ""
 
-#: ../qml/Main.qml:930
+#: ../qml/Main.qml:919
 msgid "When enabled, the interval timer always changes the wallpaper on boot"
 msgstr ""
 
-#: ../qml/Main.qml:931
+#: ../qml/Main.qml:920
 msgid ""
 "The interval timer and daynight times are not exact and they may vary up to "
 "1 minute to improve battery life."
 msgstr ""
 
-#: ../qml/Main.qml:932
+#: ../qml/Main.qml:921
 msgid ""
 "When using both, the time interval and the day/night switch, the day/night "
 "switch will reset the time interval counter when switching folders. If you "
@@ -265,90 +245,90 @@ msgid ""
 "always be faster."
 msgstr ""
 
-#: ../qml/Main.qml:962
+#: ../qml/Main.qml:951
 msgid "Made with love by LluísE - "
 msgstr ""
 
-#: ../qml/Main.qml:993
+#: ../qml/Main.qml:982
 msgid "Apply"
 msgstr ""
 
-#: ../qml/Main.qml:1009 ../qml/Main.qml:1027 ../qml/Main.qml:1036
-#: ../qml/Main.qml:1045 ../qml/Main.qml:1055 ../qml/Main.qml:1066
-#: ../qml/Main.qml:1078 ../qml/Main.qml:1086 ../qml/Main.qml:1180
+#: ../qml/Main.qml:998 ../qml/Main.qml:1016 ../qml/Main.qml:1025
+#: ../qml/Main.qml:1034 ../qml/Main.qml:1044 ../qml/Main.qml:1055
+#: ../qml/Main.qml:1067 ../qml/Main.qml:1075 ../qml/Main.qml:1164
 msgid "Invalid configuration"
 msgstr ""
 
-#: ../qml/Main.qml:1010
+#: ../qml/Main.qml:999
 msgid "Please select a valid folder"
 msgstr ""
 
-#: ../qml/Main.qml:1028
+#: ../qml/Main.qml:1017
 msgid "Please select an order"
 msgstr ""
 
-#: ../qml/Main.qml:1037
+#: ../qml/Main.qml:1026
 msgid "Please select an interval"
 msgstr ""
 
-#: ../qml/Main.qml:1046
+#: ../qml/Main.qml:1035
 msgid "Please input a valid time number"
 msgstr ""
 
-#: ../qml/Main.qml:1056
+#: ../qml/Main.qml:1045
 msgid "Please input valid hours and minutes for the day/night main folder"
 msgstr ""
 
-#: ../qml/Main.qml:1067
+#: ../qml/Main.qml:1056
 msgid ""
 "Please input valid hours and minutes for the day/night alternative folder"
 msgstr ""
 
-#: ../qml/Main.qml:1079
+#: ../qml/Main.qml:1068
 msgid "Enable at least one: Interval timer or Day/night switch"
 msgstr ""
 
-#: ../qml/Main.qml:1087
+#: ../qml/Main.qml:1076
 msgid ""
 "In order to use the day/night switch you must select an alternative folder"
 msgstr ""
 
-#: ../qml/Main.qml:1121
+#: ../qml/Main.qml:1110
 msgid "Configuration applied"
 msgstr ""
 
-#: ../qml/Main.qml:1122
+#: ../qml/Main.qml:1111
 msgid "Everything okey"
 msgstr ""
 
-#: ../qml/Main.qml:1127 ../qml/Main.qml:1137
+#: ../qml/Main.qml:1116 ../qml/Main.qml:1126
 msgid "Error"
 msgstr ""
 
-#: ../qml/Main.qml:1128
+#: ../qml/Main.qml:1117
 msgid "Failed to set up the background service"
 msgstr ""
 
-#: ../qml/Main.qml:1138
+#: ../qml/Main.qml:1127
 msgid "Failed to save the configuration"
 msgstr ""
 
-#: ../qml/Main.qml:1149
+#: ../qml/Main.qml:1138
 msgid "Select a folder"
 msgstr ""
 
-#: ../qml/Main.qml:1181
+#: ../qml/Main.qml:1165
 msgid "Please make sure to input a valid configuration"
 msgstr ""
 
-#: ../qml/Main.qml:1184
+#: ../qml/Main.qml:1168
 msgid "OK"
 msgstr ""
 
-#: ../qml/Main.qml:1195
+#: ../qml/Main.qml:1179
 msgid "Working"
 msgstr ""
 
-#: ../qml/Main.qml:1196
+#: ../qml/Main.qml:1180
 msgid "Please wait"
 msgstr ""
