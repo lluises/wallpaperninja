@@ -1,6 +1,6 @@
 {
     "name": "wallpaperninja.kitsune.cat",
-  "description": "Manage wallpapers with options like random wallpapers, automatic day/night images, etc.",
+  "description": "Manage wallpapers with options like random wallpapers on boot, every hour, automatic day/night images, etc.",
     "architecture": "$ENV{ARCH}",
     "title": "Wallpaper Ninja",
     "hooks": {
@@ -9,7 +9,7 @@
             "desktop":  "wallpaperninja.desktop"
         }
     },
-    "version": "1.0.0",
+    "version": "1.0.1",
     "maintainer": "LluísE <contact@kitsune.cat>",
     "framework" : "$ENV{CLICK_FRAMEWORK}"
 }

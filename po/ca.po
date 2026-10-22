@@ -1,0 +1,249 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the wallpaperninja.kitsune.cat package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: wallpaperninja.kitsune.cat\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-22 12:42+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../qml/GalleryManager.qml:147
+msgid "Back"
+msgstr "Tornar"
+
+#: ../qml/GalleryManager.qml:200
+msgid "Add images"
+msgstr "Afegir imatges"
+
+#: ../qml/GalleryManager.qml:230
+msgid "No pictures yet"
+msgstr "No hi ha cap imatge"
+
+#: ../qml/GalleryManager.qml:242
+msgid "Delete images"
+msgstr "Eliminar imatges"
+
+#: ../qml/Main.qml:133
+msgid "Invalid configuration"
+msgstr "Configuració invàlida"
+
+#: ../qml/Main.qml:142 ../qml/Main.qml:156
+msgid "Error"
+msgstr "Error"
+
+#: ../qml/Main.qml:142
+msgid "Failed to save the configuration"
+msgstr "No s'ha pogut guardar la configuració"
+
+#: ../qml/Main.qml:153
+msgid "Configuration applied"
+msgstr "Configuració aplicada amb èxit"
+
+#: ../qml/Main.qml:156
+msgid "Failed to set up the background service"
+msgstr "No s'ha pogut configurar el sistema en segon pla"
+
+#: ../qml/Main.qml:187 ../qml/Main.qml:354
+msgid "Next wallpaper"
+msgstr "Següent fons"
+
+#: ../qml/Main.qml:188
+msgid "Failed to change the wallpaper :("
+msgstr "No s'ha pogut canviar el fons :("
+
+#: ../qml/Main.qml:206
+msgid "Background service"
+msgstr "Servei en segon pla"
+
+#: ../qml/Main.qml:208
+msgid "Wallpaper Ninja has been disabled"
+msgstr "S'ha desactivat el ninja"
+
+#: ../qml/Main.qml:209
+msgid "Failed to disable Wallpaper Ninja"
+msgstr "No s'ha pogut desactivar el ninja"
+
+#: ../qml/Main.qml:227 wallpaperninja.desktop.in.h:1
+msgid "Wallpaper Ninja"
+msgstr "Wallpaper Ninja"
+
+#: ../qml/Main.qml:276
+msgid "Your ninja takes care of your Ubuntu Touch wallpaper"
+msgstr "El teu ninja que s'ocupa dels teus fons de pantalla"
+
+#: ../qml/Main.qml:302
+msgid "Wallpaper Ninja is running"
+msgstr "Wallpaper Ninja està actiu"
+
+#: ../qml/Main.qml:323
+msgid "Wallpaper Ninja is disabled"
+msgstr "Wallpaper Ninja està desactivat"
+
+#: ../qml/Main.qml:344
+msgid "Disable"
+msgstr "Desactivar"
+
+#: ../qml/Main.qml:369 ../qml/Main.qml:377 ../qml/Main.qml:698
+msgid "Main wallpapers"
+msgstr "Fons de pantalla principals"
+
+#: ../qml/Main.qml:385 ../qml/Main.qml:393
+msgid "Alternative wallpapers"
+msgstr "Fons de pantalla alternatius"
+
+#: ../qml/Main.qml:397
+msgid "For day and night"
+msgstr "Per a dia i nit"
+
+#: ../qml/Main.qml:406
+msgid "Order"
+msgstr "Ordre"
+
+#: ../qml/Main.qml:414
+msgid "As shown in gallery"
+msgstr "Com surt a la galeria"
+
+#: ../qml/Main.qml:415
+msgid "Reverse gallery"
+msgstr "Al revés de la galeria"
+
+#: ../qml/Main.qml:416
+msgid "Random"
+msgstr "Aleatori"
+
+#: ../qml/Main.qml:417
+msgid "Random without repeating"
+msgstr "Aleatori sense repetir"
+
+#: ../qml/Main.qml:427
+msgid "Wallpaper timer"
+msgstr "Temporitzador"
+
+#: ../qml/Main.qml:437
+msgid "On boot"
+msgstr "En arrencar"
+
+#: ../qml/Main.qml:438
+msgid "Seconds"
+msgstr "Segons"
+
+#: ../qml/Main.qml:439
+msgid "Minutes"
+msgstr "Minuts"
+
+#: ../qml/Main.qml:440
+msgid "Hours"
+msgstr "Hores"
+
+#: ../qml/Main.qml:441
+msgid "Days"
+msgstr "Dies"
+
+#: ../qml/Main.qml:442
+msgid "Weeks"
+msgstr "Setmanes"
+
+#: ../qml/Main.qml:443
+msgid "Months"
+msgstr "Mesos"
+
+#: ../qml/Main.qml:452
+msgid "Repeat every"
+msgstr "Repetir cada"
+
+#: ../qml/Main.qml:461
+msgid "Time value"
+msgstr "Temps"
+
+#: ../qml/Main.qml:476
+msgid "Day and night wallpapers"
+msgstr "Fons de dia i de nit"
+
+#: ../qml/Main.qml:485
+msgid "Main"
+msgstr "Principal"
+
+#: ../qml/Main.qml:534
+msgid "Alternative"
+msgstr "Alternatiu"
+
+#: ../qml/Main.qml:583
+msgid "Miscellaneous"
+msgstr "Miscel·lània"
+
+#: ../qml/Main.qml:588
+msgid "Hide Wallpaper Ninja images from the Ubuntu Touch Settings app"
+msgstr "Amaga les imatges de l'aplicació de Configuració d'Ubuntu Touch"
+
+#: ../qml/Main.qml:594
+msgid "Precise timing (may increase battery usage)"
+msgstr "Mode puntual (pot consumir més bateria)"
+
+#: ../qml/Main.qml:602
+msgid "Notes"
+msgstr "Notes"
+
+#: ../qml/Main.qml:612
+msgid "Before uninstalling, make sure Wallpaper Ninja is disabled"
+msgstr "Abans de desinstal·lar assegure't de desactivar Wallpaper Ninja"
+
+#: ../qml/Main.qml:613
+msgid "Only JPG and PNG images are supported"
+msgstr "Només es poden fer servir imatges JPG i PNG"
+
+#: ../qml/Main.qml:614
+msgid "Invalid images might fallback to the default Ubuntu wallpaper"
+msgstr "Les imatges invàlides podrien ser substituïdes pel fons per defecte d'Ubuntu"
+
+#: ../qml/Main.qml:615
+msgid "The wallpaper will always change on boot"
+msgstr "El fons de pantalla sempre canvia en arrencar"
+
+#: ../qml/Main.qml:616
+msgid ""
+"Without precise timing, wallpaper changes may be delayed by up to one minute "
+"to save battery life."
+msgstr "Sense el mode puntual, els canvis del fons de pantalla podrien retardar-se "
+"fins a un minut per estalviar bateria"
+
+#: ../qml/Main.qml:617
+msgid "The wallpaper timer resets on every day/night switch"
+msgstr "El temporitzador es reinicia amb cada canvi entre dia i nit"
+
+#: ../qml/Main.qml:647
+msgid "Made with love by LluísE - "
+msgstr "Fet amb amor per en Lluis - "
+
+#: ../qml/Main.qml:678
+msgid "Apply"
+msgstr "Aplicar"
+
+#: ../qml/Main.qml:708
+msgid "Popup title"
+msgstr ""
+
+#: ../qml/Main.qml:709
+msgid "Popup text"
+msgstr ""
+
+#: ../qml/Main.qml:712
+msgid "OK"
+msgstr "D'acord"
+
+#: ../qml/Main.qml:723
+msgid "Working"
+msgstr "Treballant"
+
+#: ../qml/Main.qml:724
+msgid "Please wait"
+msgstr "Espera perfavor"

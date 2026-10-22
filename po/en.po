@@ -1,0 +1,248 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the wallpaperninja.kitsune.cat package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: wallpaperninja.kitsune.cat\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-22 12:42+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../qml/GalleryManager.qml:147
+msgid "Back"
+msgstr ""
+
+#: ../qml/GalleryManager.qml:200
+msgid "Add images"
+msgstr ""
+
+#: ../qml/GalleryManager.qml:230
+msgid "No pictures yet"
+msgstr ""
+
+#: ../qml/GalleryManager.qml:242
+msgid "Delete images"
+msgstr ""
+
+#: ../qml/Main.qml:133
+msgid "Invalid configuration"
+msgstr ""
+
+#: ../qml/Main.qml:142 ../qml/Main.qml:156
+msgid "Error"
+msgstr ""
+
+#: ../qml/Main.qml:142
+msgid "Failed to save the configuration"
+msgstr ""
+
+#: ../qml/Main.qml:153
+msgid "Configuration applied"
+msgstr ""
+
+#: ../qml/Main.qml:156
+msgid "Failed to set up the background service"
+msgstr ""
+
+#: ../qml/Main.qml:187 ../qml/Main.qml:354
+msgid "Next wallpaper"
+msgstr ""
+
+#: ../qml/Main.qml:188
+msgid "Failed to change the wallpaper :("
+msgstr ""
+
+#: ../qml/Main.qml:206
+msgid "Background service"
+msgstr ""
+
+#: ../qml/Main.qml:208
+msgid "Wallpaper Ninja has been disabled"
+msgstr ""
+
+#: ../qml/Main.qml:209
+msgid "Failed to disable Wallpaper Ninja"
+msgstr ""
+
+#: ../qml/Main.qml:227 wallpaperninja.desktop.in.h:1
+msgid "Wallpaper Ninja"
+msgstr ""
+
+#: ../qml/Main.qml:276
+msgid "Your ninja takes care of your Ubuntu Touch wallpaper"
+msgstr ""
+
+#: ../qml/Main.qml:302
+msgid "Wallpaper Ninja is running"
+msgstr ""
+
+#: ../qml/Main.qml:323
+msgid "Wallpaper Ninja is disabled"
+msgstr ""
+
+#: ../qml/Main.qml:344
+msgid "Disable"
+msgstr ""
+
+#: ../qml/Main.qml:369 ../qml/Main.qml:377 ../qml/Main.qml:698
+msgid "Main wallpapers"
+msgstr ""
+
+#: ../qml/Main.qml:385 ../qml/Main.qml:393
+msgid "Alternative wallpapers"
+msgstr ""
+
+#: ../qml/Main.qml:397
+msgid "For day and night"
+msgstr ""
+
+#: ../qml/Main.qml:406
+msgid "Order"
+msgstr ""
+
+#: ../qml/Main.qml:414
+msgid "As shown in gallery"
+msgstr ""
+
+#: ../qml/Main.qml:415
+msgid "Reverse gallery"
+msgstr ""
+
+#: ../qml/Main.qml:416
+msgid "Random"
+msgstr ""
+
+#: ../qml/Main.qml:417
+msgid "Random without repeating"
+msgstr ""
+
+#: ../qml/Main.qml:427
+msgid "Wallpaper timer"
+msgstr ""
+
+#: ../qml/Main.qml:437
+msgid "On boot"
+msgstr ""
+
+#: ../qml/Main.qml:438
+msgid "Seconds"
+msgstr ""
+
+#: ../qml/Main.qml:439
+msgid "Minutes"
+msgstr ""
+
+#: ../qml/Main.qml:440
+msgid "Hours"
+msgstr ""
+
+#: ../qml/Main.qml:441
+msgid "Days"
+msgstr ""
+
+#: ../qml/Main.qml:442
+msgid "Weeks"
+msgstr ""
+
+#: ../qml/Main.qml:443
+msgid "Months"
+msgstr ""
+
+#: ../qml/Main.qml:452
+msgid "Repeat every"
+msgstr ""
+
+#: ../qml/Main.qml:461
+msgid "Time value"
+msgstr ""
+
+#: ../qml/Main.qml:476
+msgid "Day and night wallpapers"
+msgstr ""
+
+#: ../qml/Main.qml:485
+msgid "Main"
+msgstr ""
+
+#: ../qml/Main.qml:534
+msgid "Alternative"
+msgstr ""
+
+#: ../qml/Main.qml:583
+msgid "Miscellaneous"
+msgstr ""
+
+#: ../qml/Main.qml:588
+msgid "Hide Wallpaper Ninja images from the Ubuntu Touch Settings app"
+msgstr ""
+
+#: ../qml/Main.qml:594
+msgid "Precise timing (may increase battery usage)"
+msgstr ""
+
+#: ../qml/Main.qml:602
+msgid "Notes"
+msgstr ""
+
+#: ../qml/Main.qml:612
+msgid "Before uninstalling, make sure Wallpaper Ninja is disabled"
+msgstr ""
+
+#: ../qml/Main.qml:613
+msgid "Only JPG and PNG images are supported"
+msgstr ""
+
+#: ../qml/Main.qml:614
+msgid "Invalid images might fallback to the default Ubuntu wallpaper"
+msgstr ""
+
+#: ../qml/Main.qml:615
+msgid "The wallpaper will always change on boot"
+msgstr ""
+
+#: ../qml/Main.qml:616
+msgid ""
+"Without precise timing, wallpaper changes may be delayed by up to one minute "
+"to save battery life."
+msgstr ""
+
+#: ../qml/Main.qml:617
+msgid "The wallpaper timer resets on every day/night switch"
+msgstr ""
+
+#: ../qml/Main.qml:647
+msgid "Made with love by LluísE - "
+msgstr ""
+
+#: ../qml/Main.qml:678
+msgid "Apply"
+msgstr ""
+
+#: ../qml/Main.qml:708
+msgid "Popup title"
+msgstr ""
+
+#: ../qml/Main.qml:709
+msgid "Popup text"
+msgstr ""
+
+#: ../qml/Main.qml:712
+msgid "OK"
+msgstr ""
+
+#: ../qml/Main.qml:723
+msgid "Working"
+msgstr ""
+
+#: ../qml/Main.qml:724
+msgid "Please wait"
+msgstr ""
