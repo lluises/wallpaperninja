@@ -1,8 +1,16 @@
 # Wallpaper Ninja
 
-Ubuntu-Touch app to manage wallpapers with options like random wallpapers, automatic day/night images, etc.
+Ubuntu Touch app to manage wallpapers with options like random wallpapers, automatic day/night images, etc.
+
+![Wallpaper Ninja](assets/logo.png)
 
 Website: [kitsune.cat](https://kitsune.cat)
+
+Languages:
+
+- English
+- Spanish
+- Catalan
 
 
 ## How to build
